@@ -14,3 +14,22 @@ const student = {
 for (let key in studentObj){
     console.log(key, ':', studentObj[key]);
 }
+
+
+const students = [
+    {
+        nome: 'Gigi',
+        cognome: 'Buffon',
+        età: 44,
+    },
+    {
+        nome: 'Gigia',
+        cognome: 'Buffona',
+        età: 44,
+    },
+    {
+        nome: 'Gigina',
+        cognome: 'Buffons',
+        età: 44,
+    }
+];
