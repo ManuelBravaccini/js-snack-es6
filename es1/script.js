@@ -11,8 +11,8 @@ const student = {
 }
 
 
-for (let key in studentObj){
-    console.log(key, ':', studentObj[key]);
+for (let key in student){
+    console.log(key, ':', student[key]);
 }
 
 
